@@ -1,1 +1,10 @@
 /* css dell'header */
+.header-caratteristiche{
+    background-image: url(../img/pattern.png);
+    background-color:#6298ff;
+    height: 180px;
+}
+
+.header-caratteristiche img{
+    width: 30%;
+}
