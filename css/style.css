@@ -8,3 +8,35 @@
 .header-caratteristiche img{
     width: 30%;
 }
+
+
+
+
+
+/* css del footer */
+footer h4{
+    color: rgb(128, 128, 128);
+    margin-bottom: 12px;
+}
+
+/* aggiunto padding per spostare il testo e margin per diminuire distanza immagini */
+footer h3{
+    color: white;
+    padding-top: 15px;
+    padding-left: 10px;
+    margin-top: 9px;
+    font-size: 25px;
+}
+
+footer div{
+    width: 270px;
+    height: 208px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    background-image: url(../img/graph.jpg);
+}
