@@ -9,6 +9,15 @@
     height: 50%;
 }
 
+.logo img{
+    position: relative;
+    top:50%;
+}
+
+.logo{
+    height: 180px;
+}
+
 /* css del main */
 
     /* Titolo con immagini */
