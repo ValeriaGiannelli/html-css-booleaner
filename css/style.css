@@ -11,28 +11,39 @@
 
 /* css del main */
 
-/* Parte di titolo e immagini */
-.title h1{
-    margin-bottom: 5px;
-}
+    /* Titolo con immagini */
+    .title h1{
+        margin-bottom: 5px;
+    }
 
-.title h4{
-    margin: 2px auto;
-    color: rgb(128, 128, 128);
-}
+    .title h4{
+        margin: 2px auto;
+        color: rgb(128, 128, 128);
+    }
 
-.title span{
-    color: rgb(74 169 229);
-}
+    .title span{
+        color: rgb(74 169 229);
+    }
 
-.title img{
-    margin-top: 20px;
-}
+    .title img{
+        margin-top: 20px;
+    }
 
-.title p{
-    margin: 2px auto;
-    font-size: 9px;
-}
+    .title p{
+        margin: 2px auto;
+        font-size: 9px;
+    }
+
+    /* Testo */
+    .text span{
+        background-color:rgb(250 255 16);
+    }
+
+    .text ul{
+        padding: 0 15px;
+    }
+
+    /* Tabella */
 
 
 
