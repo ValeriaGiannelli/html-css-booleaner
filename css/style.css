@@ -2,7 +2,9 @@
 .header-caratteristiche{
     background-image: url(../img/pattern.png);
     background-color:#6298ff;
-    height: 180px;
+    background-size: 20%;
+    
+    /* height: 150px; */
 }
 
 .header-caratteristiche img{
@@ -15,7 +17,7 @@
 }
 
 .logo{
-    height: 180px;
+    height: 80px;
 }
 
 /* css del main */
