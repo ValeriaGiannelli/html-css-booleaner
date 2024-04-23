@@ -13,7 +13,8 @@ div{
 .header-caratteristiche{
     background-image: url(../img/pattern.png);
     background-color:#6298ff;
-    height: 180px;
+    background-size: 20%;
+    /* height: 180px; */
 }
 
 .header-caratteristiche img{
@@ -26,7 +27,7 @@ div{
 }
 
 .logo{
-    height: 180px;
+    height: 80px;
 }
 
 
